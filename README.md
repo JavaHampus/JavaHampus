@@ -1,3 +1,3 @@
-Hello, my name is Hampus and I code in Java & JavaScript. Ehh what more is there to say.
+Hello, my name is Hampus. I like to code and learn new things. I have been coding in JavaScript for almost 2 years and currently learning LUA.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=javahampus&theme=dark&show_icons=true)
+Yeah you can go now, nothing else to see here.
