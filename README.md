@@ -16,3 +16,10 @@ int main(void)
     puts("javahampus is a noob");
 }
 ```
+
+```delphi
+program javahampus;
+begin
+  Writeln('javahampus is a noob');
+end.
+```
