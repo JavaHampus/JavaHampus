@@ -8,6 +8,4 @@
 <img src="https://img.shields.io/badge/JAVascript-007ACC?style=for-the-badge&logo=javascript&logoColor=white"></img>  
 <img src="https://img.shields.io/badge/JAva-007ACC?style=for-the-badge&logo=java&logoColor=white"></img>  
 <img src="https://img.shields.io/badge/LUA-007ACC?style=for-the-badge&logo=lua&logoColor=white"></img>  
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"></img>
 </div>
